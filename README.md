@@ -85,7 +85,7 @@ To run the simulation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sintering-simulation.git
+git clone https://github.com/VagnerKM/heat-transfer.git
 
 # Install dependencies
 pip install numpy matplotlib
